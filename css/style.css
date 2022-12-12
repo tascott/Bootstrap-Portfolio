@@ -16,3 +16,14 @@ body {
     line-height: 60px;
     background-color: #f5f5f5;
 }
+
+/* Custom card styling */
+.card {
+    margin-bottom: 15px;
+}
+
+
+.work, .skills-about {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
