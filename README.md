@@ -1,4 +1,4 @@
-# Week 3 Challenge - Bootsrap Portfolio
+# Week 3 Challenge - Bootstrap Portfolio
 
 ## Description
 
