@@ -40,6 +40,10 @@ li.heading {
     background-color: #000 !important;
 }
 
+.btn.faded {
+    pointer-events: none;
+}
+
 /* Navbar styling */
 
 .navbar {
