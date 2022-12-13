@@ -16,6 +16,32 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+li.heading {
+    font-weight: bold;
+    padding-bottom: 8px;
+    font-size: 1.3em;
+}
+
+.btn-outline-primary {
+    color: #000 !important;
+    border-color: #000 !important;
+}
+
+.btn-outline-primary:hover {
+    color: #fff !important;
+    background-color: #000 !important;
+}
+
+/* Navbar styling */
+
 .navbar {
     background-color: var(--dark);
 }
@@ -34,7 +60,8 @@ body {
     background-position: center left, center right, center right;
     background-repeat: no-repeat;
     background-size: 51% auto, 50% auto, 50% auto;
-    color: var(--light)
+    color: var(--light);
+    border-radius: 0px;
 }
 
 /* Jumbotron styles */
