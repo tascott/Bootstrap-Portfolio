@@ -2,7 +2,7 @@
 
 ## Description
 
-A continuation of a porfolio based website bulit with Bootstrap and minimising media queries - preferring the use of Boostraps built in classes.
+A continuation of a porfolio based website bulit with Bootstrap and minimising media queries - preferring the use of Bootstraps built in classes.
 
 Features a sticky footer & bootstrap navbar. Displays the start of a grid for my projects, an "about me" section with contact info, and a list of the skills I should be proficient with come the middle of 2023.
 
